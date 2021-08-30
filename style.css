@@ -1,0 +1,64 @@
+body{
+    background-color: #D3D3D3;
+    
+}
+body form h1{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 20%;
+}
+form{
+   /* text-align: center;*/
+   margin: auto;
+   max-width: 500px;
+}
+
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+label{
+    display: inline-block;
+    width: 150px;
+}
+
+button{
+padding-right: 20px;
+margin-left: 100px;
+border-color: black;
+border-radius: 5px;
+}
+.submit{
+    background-color: rgb(137, 206, 137);
+}
+.reset{
+    background-color: rgb(219, 124, 124);
+}
+
+input{
+    height: 20px;
+    width:200px;
+}
+
+
+textarea{
+height: 50px;
+width: 200px;
+}
+input[name="gender"]{
+width: auto;
+height: auto;
+}
+#check{
+    width:100%;
+    font-size: large;
+    text-align: center;
+
+}
+#button{
+margin-left: 50px;
+}
+#checkbox{
+    width:30px;
+    height:20px;
+}
